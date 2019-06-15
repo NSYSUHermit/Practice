@@ -1,0 +1,11 @@
+Package: LinPackage
+Version: 1.0
+Date: 2019-06-14
+Title: Monte Carlo Simulation
+Author: Henry Lin
+Maintainer: Henry Lin <m072040030@mail.nsysu.edu.tw>
+Description: Using Monte Carlo Simulation to build the simulate dataset
+Depends: R (>= 1.5.0)
+Imports: methods, utils
+License: LGPL (>= 2)
+LazyData:true
